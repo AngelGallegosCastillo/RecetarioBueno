@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        
+        <title> Recetario </title>
+        
+    </head>
+    
+    <body background="http://krabihomesale.com/wp-content/uploads/2016/02/1364942-gray-triangles.jpg"/>
+    
+    <h1 style= "text-align:center; color:red; font-size:80px; font-family:cursive"> Recetario</h1>
+    
+    <h1 style="text-align:center; color:blue"> <strong>La cocina para todos</strong></h1>
+    
+    <h1 style="text-align:center; font-family:times new roman"> En este sitio le presentamos una serie de recetas que podran ser usadas por amas de casa y usuarios en general</h1>
+    
+    <h2 style="text-align:center; color:white"> Pollo en salsa de cacahuate</h2>
+    
+    <div align="center"><a href="http://www.imujer.com/5870/pollo-en-salsa-de-cacahuate"><img src="http://static.azteca.com/crop/crop.php?width=580&height=&img=http://static.azteca.com/imagenes/2014/14/a-1830219.jpg&coordinates=50,50"></a>
+        
+    <h2 style="text-align:center; color:white"> Carne de res en salsa verde</h2>
+        
+    <div align="center"><a href="http://allrecipes.com.mx/receta/4420/carne-deshebrada-en-chile-verde.aspx"> <img src="https://nokrisscecco.files.wordpress.com/2011/08/clip_image002.jpg"></a>
+        
+    <h2 style="text-align:center; color:white"> Spaguetti</h2>
+        
+    <div align="center"><a href="https://www.philadelphia.com.mx/recetas/comida/pastas/spaguetti-rojo"><img src="https://i.ytimg.com/vi/bWM6VocRT3M/hqdefault.jpg"></a>
+        
+    <h2 style="text-align:center; color:white"> Mole poblano </h2>
+        
+        <div align="center"><a href="http://www.mexicodesconocido.com.mx/receta-mole-poblano.html"><img src="http://canastacos.com/blog/wp-content/uploads/2011/08/wpid-MOLE-POBLANO1.jpg"></a>
+  </html>    
